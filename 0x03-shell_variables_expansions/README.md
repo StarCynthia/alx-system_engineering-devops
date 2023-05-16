@@ -6,3 +6,4 @@ A script that creates global variables
 A script that creates alias
 A script that adds directory to path
 A script that counts paths
+A script that does arithmethic expression(addition)
