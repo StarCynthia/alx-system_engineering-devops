@@ -1,3 +1,2 @@
 #!/bin/bash
 cat /etc/passwd
-2-hellofile: A script that displays the content of /etc/passwd
