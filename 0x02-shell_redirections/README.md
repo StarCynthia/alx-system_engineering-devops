@@ -15,3 +15,4 @@ A script that deletes all files withe .js extension
 17-hidethisword:  script that Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
 A Script that Display all lines of the file /etc/ssh/sshd_config starting with a letter
 19-AZ: A script that Replace all characters A and c from input to Z and e respectively.
+20-hiago: A script that Create a script that removes all letters c and C from input.
