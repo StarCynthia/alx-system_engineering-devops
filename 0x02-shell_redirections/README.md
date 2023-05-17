@@ -9,3 +9,4 @@ A Script that writes the result of stdin2-hellofile: A script that displays the 
 A script that deletes all files withe .js extension
 11-directories: A script that counts all directories except the current working directory
 10-newest_files: A script that displays 10 new files in order of newest to oldest
+13-unique: a script that takes a list of words as input and prints only words that appear exactly once.
