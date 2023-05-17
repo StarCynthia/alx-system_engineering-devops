@@ -8,3 +8,4 @@ A Script that writes the result of stdin2-hellofile: A script that displays the 
 10-no_more_js
 A script that deletes all files withe .js extension
 11-directories: A script that counts all directories except the current working directory
+10-newest_files: A script that displays 10 new files in order of newest to oldest
