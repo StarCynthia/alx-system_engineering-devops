@@ -16,3 +16,4 @@ A script that deletes all files withe .js extension
 A Script that Display all lines of the file /etc/ssh/sshd_config starting with a letter
 19-AZ: A script that Replace all characters A and c from input to Z and e respectively.
 20-hiago: A script that Create a script that removes all letters c and C from input.
+21-reverse: A script that reverse its input
